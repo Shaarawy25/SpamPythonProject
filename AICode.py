@@ -28,7 +28,7 @@ acc = metrics.accuracy_score(y_test, predicted)
 
 
 st.title("Spam Classification App")
-st.image("spam.jpg", use_column_width=True)
+st.image("SpamIMG.png", use_column_width=True)
 st.text("Model Description: Naive Bayes Model trained on SMS data")
 
 
